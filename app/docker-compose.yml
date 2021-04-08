@@ -1,0 +1,6 @@
+version: "3"
+services:
+  api_dev:
+    image: edsoncarlos33/desafio1_fsfc
+    ports:
+      - "8000:8080"
