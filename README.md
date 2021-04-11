@@ -1,7 +1,6 @@
 # Desafio1_FSFC
 
 Informações do desafio
-Antes de iniciar o desafio, acesse o repositório do projeto da imersão no Github, de uma estrela e faça um fork.
 
 Desenvolva uma aplicação utilizando Golang que disponibilizará um servidor web na porta 8000.
 
